@@ -26,6 +26,7 @@ Rather than simply completing practical assignments, this repository serves as a
 | Details        | Information                                |
 | -------------- | ------------------------------------------ |
 | Student Name   | Ankit Kumar                                |
+| Guided by      | Dr. Rupesh Mishra                          |
 | University     | Rungta International Skills University     |
 | Degree         | B.Tech                                     |
 | Department     | Computer Science & Engineering             |
